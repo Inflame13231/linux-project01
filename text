@@ -1,6 +1,6 @@
 Hello world
 Hello linux
-#ТЕКСТ
-'''
-Блок кода
+# ТЕКСT
+'''python
+print("Hello world")
 '''
